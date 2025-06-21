@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.0358009"
-     inkscape:cx="249.08261"
-     inkscape:cy="71.925016"
+     inkscape:zoom="1.4648437"
+     inkscape:cx="116.05334"
+     inkscape:cy="184.66134"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -53,9 +53,122 @@
   <defs
      id="defs1" />
   <g
-     inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="Scenario">
+    <g
+       id="g4"
+       inkscape:label="ground-2">
+      <rect
+         style="fill:#a05a2c;stroke-width:11.1999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2"
+         width="70"
+         height="70"
+         x="70"
+         y="0" />
+      <rect
+         style="fill:#44aa00;stroke-width:6.69322;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-7"
+         width="70"
+         height="25"
+         x="70"
+         y="-1.7763568e-15" />
+    </g>
+    <g
+       id="g4-7"
+       inkscape:label="ground-2"
+       transform="rotate(90,70,70)">
+      <rect
+         style="fill:#a05a2c;stroke-width:11.1999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-9"
+         width="70"
+         height="70"
+         x="70"
+         y="0" />
+      <rect
+         style="fill:#44aa00;stroke-width:6.69322;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-7-7"
+         width="70"
+         height="25"
+         x="70"
+         y="-1.7763568e-15" />
+    </g>
+    <g
+       id="g4-7-5"
+       inkscape:label="ground-2"
+       transform="matrix(0,1,1,0,0,70)">
+      <rect
+         style="fill:#a05a2c;stroke-width:11.1999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-9-9"
+         width="70"
+         height="70"
+         x="70"
+         y="0" />
+      <rect
+         style="fill:#44aa00;stroke-width:6.69322;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-7-7-1"
+         width="70"
+         height="25"
+         x="70"
+         y="-1.7763568e-15" />
+    </g>
+    <g
+       id="g4-8"
+       inkscape:label="ground-2"
+       transform="rotate(180,70,70)">
+      <rect
+         style="fill:#a05a2c;stroke-width:11.1999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-0"
+         width="70"
+         height="70"
+         x="70"
+         y="0" />
+      <rect
+         style="fill:#44aa00;stroke-width:6.69322;stroke-linecap:round;stroke-linejoin:round"
+         id="rect3-0-2-7-3"
+         width="70"
+         height="25"
+         x="70"
+         y="-1.7763568e-15" />
+    </g>
+    <rect
+       style="fill:#a05a2c;stroke-width:11.1999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3-0"
+       width="70"
+       height="70"
+       x="-2.026157e-15"
+       y="0"
+       inkscape:label="ground-1" />
+    <rect
+       style="fill:#5aa02c;stroke-width:11.1866;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="69.833023"
+       height="70"
+       x="70.083488"
+       y="140"
+       inkscape:label="grass-1" />
+    <rect
+       style="fill:#71c837;stroke-width:11.2133;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3-1"
+       width="70.166977"
+       height="70"
+       x="-0.083488464"
+       y="210"
+       inkscape:label="grass-2" />
+    <rect
+       style="fill:#8dd35f;stroke-width:11.2133;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3-1-0"
+       width="70.166977"
+       height="70"
+       x="69.916512"
+       y="210"
+       inkscape:label="grass_3" />
+  </g>
+  <g
+     inkscape:label="Snake"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
     <rect
        style="fill:#0e6ef1;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
        id="rect1-1"

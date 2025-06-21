@@ -16,8 +16,8 @@ config/icon="res://sprites/icon.svg"
 
 [display]
 
-window/size/viewport_width=256
-window/size/viewport_height=256
+window/size/viewport_width=896
+window/size/viewport_height=896
 
 [editor_plugins]
 

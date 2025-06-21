@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const tile_size: Vector2 = Vector2(16,16)
+const tile_size: Vector2 = Vector2(48,48)
 var sprite_node_pos_tween: Tween #to move smooth
 var direction: Vector2 = Vector2(0,-1)
 
@@ -21,9 +21,9 @@ func _set_direction():
 
 func _move(dir: Vector2):
 	global_position += dir * tile_size
-	$Sprite2D.global_position -= dir * tile_size
+	$Sprite2D.global_position -= dir * tile_size # * speed = ?
 	
 	if sprite_node_pos_tween: sprite_node_pos_tween.kill()
 	sprite_node_pos_tween = create_tween()
 	sprite_node_pos_tween.set_process_mode(Tween.TWEEN_PROCESS_PHYSICS)
-	sprite_node_pos_tween.tween_property($Sprite2D, "global_position", global_position, 0.200).set_trans(Tween.TRANS_SINE) #durantion = 0.185
+	sprite_node_pos_tween.tween_property($Sprite2D, "global_position", global_position, 0.350).set_trans(Tween.TRANS_SINE) #durantion = 0.185
